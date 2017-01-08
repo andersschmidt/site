@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Australian cookies
-subtitle: Just because I can
-date: 2014-06-10 12:00:00
+title: Australsk kiksekage
+subtitle: 'Enjoy...!'
+date: 2017-08-01 12:00:00
 author: Anders Schmidt
 header-img: img/post-bg-01.jpg
 ---
+
+
+Du vil elske dette:&nbsp;
+
+![](/site/site/uploads/versions/au-kiks---x----1024-688x---.jpg)
